@@ -1,0 +1,9 @@
+django==3.1.7
+djangorestframework==3.14
+django-mysql==3.11.1
+django-cors-headers==3.7.0
+mysqlclient==2.0.3
+
+
+
+# sudo apt-get install default-libmysqlclient-dev for installing mysqlclient
